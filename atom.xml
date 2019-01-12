@@ -6,57 +6,28 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="https://simonyan.cn/"/>
-  <updated>2019-01-01T11:44:40.183Z</updated>
+  <updated>2019-01-12T07:40:09.151Z</updated>
   <id>https://simonyan.cn/</id>
   
   <author>
-    <name>simonyan</name>
+    <name>simonjoe</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好2019</title>
-    <link href="https://simonyan.cn/uncategorized/2019-start/"/>
-    <id>https://simonyan.cn/uncategorized/2019-start/</id>
-    <published>2018-12-31T16:07:10.000Z</published>
-    <updated>2019-01-01T11:44:40.183Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hello, 2019.</p><p>此刻我正在听李志的跨年演唱会，</p><p>多学习技术，</p><p>多自我思考，形成自我认知，</p><p>找个满意的工作，实现经济独立。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Hello, 2019.&lt;/p&gt;
-&lt;p&gt;此刻我正在听李志的跨年演唱会，&lt;/p&gt;
-&lt;p&gt;多学习技术，&lt;/p&gt;
-&lt;p&gt;多自我思考，形成自我认知，&lt;/p&gt;
-&lt;p&gt;找个满意的工作，实现经济独立。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>每天都做一点</title>
     <link href="https://simonyan.cn/uncategorized/%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%81%9A%E4%B8%80%E7%82%B9/"/>
     <id>https://simonyan.cn/uncategorized/每天都做一点/</id>
     <published>2018-12-17T01:33:32.000Z</published>
-    <updated>2018-12-17T07:40:33.402Z</updated>
+    <updated>2019-01-12T07:40:09.151Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="如何学习一项技术"><a href="#如何学习一项技术" class="headerlink" title="如何学习一项技术"></a>如何学习一项技术</h1><p>对于开发人员来说，要学习的知识太多了。大到网络协议、数据库、测试技术，小到每一门语言的语法、一个框架，甚至是一个第三方库的学习，都不是看一天就能学会的。需要我们有计划、不间断地学习。</p><p>为什么需要不间断？</p><p>一门技术是连贯的，一环扣着一环，前后知识联系紧密。如果一周学一天，或者想起来看两眼，最后即使完整看完了也是支离破碎的状态，也很难达到掌握的地步。只有让今天学的知识与昨天的形成联系，不断深入，最后才能对这项技术有一个完整的理解和把握。</p><p>所以呢，每天都看一点。</p><p>把一门知识或一项技术拆分，确定好每天的任务量，什么时间能完成也就能够把握了。这个每天的任务量不能太重，一定是自己确定能够完成，不然前期进展缓慢的话很容易就放弃了。很多时候放弃都是在前期，一旦我们对一件事到了掌握了一定程度的时候，想放弃都难。</p><p>这里面有几点需要注意：</p><ul><li><p>我说的每天意思是连贯、有规划，也不一定每天都安排，视知识的总量、难易程度以及你每天的时间而定。可以每周安排三天，一三五、二四六都可以。比如《数据库结构与算法》（我看的是极客时间的《数据结构与算法之美》，很不错，这是<a href="#GeekBang">课程链接</a>）,这门课我就不可能每天学一节，做笔记理解消化再加上编写代码，一晚上都不一定够，所以我安排的是一三五。</p></li><li><p>最好每次都把上次的知识回顾一下，每次的任务量小，所以复习起来没有那么困难，尤其是在做了笔记的情况下。这样，学习效率应该有很大提升。</p></li><li><p>中间不要放弃，哪怕是有事耽搁一两天，往后顺延就是了，别放弃。</p></li><li><p>可以借助工具，设置好间隔，到时间就提醒自己。我用的是巨硬公司的 <a href="todo.microsoft.com">Microsoft-Todo app</a>，很不错，上手前务必阅读使用帮助，有一点点难度。</p></li></ul><h1 id="我用七天学会了-vim"><a href="#我用七天学会了-vim" class="headerlink" title="我用七天学会了 vim"></a>我用七天学会了 vim</h1><p>我为什么要写这篇文章？</p><p>原因是我的时间管理能力极差，但是这个拆分方法是我在学习过程中自己摸索出来的。</p><p>然后，我用五天学会了 vim，自认为学得还不错。</p><p>什么是 vim?</p><p>vim 是人类史上最好的文本编辑器，本人无意引起 vim vs emacs 大战，但这句话可是我最佩服的<a href="https://coolshelll.cn" target="_blank" rel="noopener">耗子叔</a>说的，我很赞同。vim 可以让你完全摆脱鼠标和小键盘，高效，炫酷，但是很难学。我记得我第一次接触 vim 是在我学习 Git 的时候，当时使用 <code>commit</code> 命令忘记加 <code>-m</code> 参数，瞬间出现一个陌生界面，最操蛋的是，怎么退都退不出去，后来只能结束窗口会话才算是摆脱了它。再后来我又遇到了第二次、第三次，那时我已经通过 Google 查到了怎么退出，也大概了解了什么是 vim，但难度较高，而且开始用 <code>hjkl</code> 使用起来十分不适应，尝试学习几次之后只能作罢。</p><p>直到我在 github 上遇到了 <a href="https://github.com/dofy/learn-vim" target="_blank" rel="noopener">learn-vim</a>(by dofy)项目。</p><p>这是一个包含基础、进阶部分的 vim 实操教程，分为七小节，七个 markdown 文件。需要你用 vim 打开文件，作者通过 markdown 文本的形式在讲解 vim 操作的同时会在文中让对文本进行实操，高效、明了，真是怎么赞美都不为过。</p><p>总之，推荐学习。</p><p>而我呢，就是每天学习一节，每天都会复习上一节学习的内容，就这样，七天基本掌握并且爱上了 vim。</p><p>并且，有一天无意中查到了一个 vim 的 chrome 插件，从此浏览网页我就再也用不到鼠标了。（你能想象这种感觉吗，虽然以前我也可以通过 chrome 的官方快捷键勉强做到，但体验和 vim 相比，就是一个天上一个地下了。）</p><p>vim 大法好！</p><h1 id="不只是编程"><a href="#不只是编程" class="headerlink" title="不只是编程"></a>不只是编程</h1><p>除了编程，这个方法当然也适用于学习其他东西。</p><p>比如英语。</p><p>说实话，考研之后，也没有英语考试的需要了，我的英语水平大概只处在原地踏步的水平。如果真的没有下降的话，那也是归因于看了不少美剧，开始尝试看一些英文技术文章。但这样还远远不够，第一，听力不行，无字幕看美剧我是根本做不到的。第二，阅读也不行，简单的技术文档没问题，但是那些英文博主列出的最简单的英语阅读入门书籍我看着都有些吃力。先把这两项解决了，口语什么的只能日后再说了。</p><p>所以我想了想，还是决定通过美剧入手。</p><ul><li><p>《生活大爆炸》即使不考虑专业词汇，语速对我来说也是过快的。这两天开始看《老友记》，不看字幕听了一下，还不错，就是它了。</p></li><li><p>拆分任务，目前是这样打算的，两天一集，第一天先看纯英文字幕的，第二天看无字幕的，直到能完全听懂为止。</p></li></ul><p>还有，目前数据库学习正在进行中，看的是廖雪峰老师的<a href="https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000" target="_blank" rel="noopener">博客教程</a>。每天两小节，预计半个月学完。</p><p>至于其他的，我觉得以我目前的时间分配来说，完成每天的工作基础上，英语和数据库能按计划进行就很不错了，至少等学完数据库再说吧。</p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>极客时间《数据结构与算法之美》课程链接，扫描二维码即可。</p><p><span id="GeekBang"><img src="/images/GeekBangAlgorithm.jpg"></span></p>]]></content>
+    <content type="html"><![CDATA[<p>我是怎么在七天的空闲时间里掌握 vim 的？</p><a id="more"></a><h1 id="如何学习一项技术"><a href="#如何学习一项技术" class="headerlink" title="如何学习一项技术"></a>如何学习一项技术</h1><p>对于开发人员来说，要学习的知识太多了。大到网络协议、数据库、测试技术，小到每一门语言的语法、一个框架，甚至是一个第三方库的学习，都不是看一天就能学会的。需要我们有计划、不间断地学习。</p><p>为什么需要不间断？</p><p>一门技术是连贯的，一环扣着一环，前后知识联系紧密。如果一周学一天，或者想起来看两眼，最后即使完整看完了也是支离破碎的状态，也很难达到掌握的地步。只有让今天学的知识与昨天的形成联系，不断深入，最后才能对这项技术有一个完整的理解和把握。</p><p>所以呢，每天都看一点。</p><p>把一门知识或一项技术拆分，确定好每天的任务量，什么时间能完成也就能够把握了。这个每天的任务量不能太重，一定是自己确定能够完成，不然前期进展缓慢的话很容易就放弃了。很多时候放弃都是在前期，一旦我们对一件事到了掌握了一定程度的时候，想放弃都难。</p><p>这里面有几点需要注意：</p><ul><li><p>我说的每天意思是连贯、有规划，也不一定每天都安排，视知识的总量、难易程度以及你每天的时间而定。可以每周安排三天，一三五、二四六都可以。比如《数据库结构与算法》（我看的是极客时间的《数据结构与算法之美》，很不错，这是<a href="#GeekBang">课程链接</a>）,这门课我就不可能每天学一节，做笔记理解消化再加上编写代码，一晚上都不一定够，所以我安排的是一三五。</p></li><li><p>最好每次都把上次的知识回顾一下，每次的任务量小，所以复习起来没有那么困难，尤其是在做了笔记的情况下。这样，学习效率应该有很大提升。</p></li><li><p>中间不要放弃，哪怕是有事耽搁一两天，往后顺延就是了，别放弃。</p></li><li><p>可以借助工具，设置好间隔，到时间就提醒自己。我用的是巨硬公司的 <a href="todo.microsoft.com">Microsoft-Todo app</a>，很不错，上手前务必阅读使用帮助，有一点点难度。</p></li></ul><h1 id="我用七天学会了-vim"><a href="#我用七天学会了-vim" class="headerlink" title="我用七天学会了 vim"></a>我用七天学会了 vim</h1><p>我为什么要写这篇文章？</p><p>原因是我的时间管理能力极差，但是这个拆分方法是我在学习过程中自己摸索出来的。</p><p>然后，我用五天学会了 vim，自认为学得还不错。</p><p>什么是 vim?</p><p>vim 是人类史上最好的文本编辑器，本人无意引起 vim vs emacs 大战，但这句话可是我最佩服的<a href="https://coolshelll.cn" target="_blank" rel="noopener">耗子叔</a>说的，我很赞同。vim 可以让你完全摆脱鼠标和小键盘，高效，炫酷，但是很难学。我记得我第一次接触 vim 是在我学习 Git 的时候，当时使用 <code>commit</code> 命令忘记加 <code>-m</code> 参数，瞬间出现一个陌生界面，最操蛋的是，怎么退都退不出去，后来只能结束窗口会话才算是摆脱了它。再后来我又遇到了第二次、第三次，那时我已经通过 Google 查到了怎么退出，也大概了解了什么是 vim，但难度较高，而且开始用 <code>hjkl</code> 使用起来十分不适应，尝试学习几次之后只能作罢。</p><p>直到我在 github 上遇到了 <a href="https://github.com/dofy/learn-vim" target="_blank" rel="noopener">learn-vim</a>(by dofy)项目。</p><p>这是一个包含基础、进阶部分的 vim 实操教程，分为七小节，七个 markdown 文件。需要你用 vim 打开文件，作者通过 markdown 文本的形式在讲解 vim 操作的同时会在文中让对文本进行实操，高效、明了，真是怎么赞美都不为过。</p><p>总之，推荐学习。</p><p>而我呢，就是每天学习一节，每天都会复习上一节学习的内容，就这样，七天基本掌握并且爱上了 vim。</p><p>并且，有一天无意中查到了一个 vim 的 chrome 插件，从此浏览网页我就再也用不到鼠标了。（你能想象这种感觉吗，虽然以前我也可以通过 chrome 的官方快捷键勉强做到，但体验和 vim 相比，就是一个天上一个地下了。）</p><p>vim 大法好！</p><h1 id="不只是编程"><a href="#不只是编程" class="headerlink" title="不只是编程"></a>不只是编程</h1><p>除了编程，这个方法当然也适用于学习其他东西。</p><p>比如英语。</p><p>说实话，考研之后，也没有英语考试的需要了，我的英语水平大概只处在原地踏步的水平。如果真的没有下降的话，那也是归因于看了不少美剧，开始尝试看一些英文技术文章。但这样还远远不够，第一，听力不行，无字幕看美剧我是根本做不到的。第二，阅读也不行，简单的技术文档没问题，但是那些英文博主列出的最简单的英语阅读入门书籍我看着都有些吃力。先把这两项解决了，口语什么的只能日后再说了。</p><p>所以我想了想，还是决定通过美剧入手。</p><ul><li><p>《生活大爆炸》即使不考虑专业词汇，语速对我来说也是过快的。这两天开始看《老友记》，不看字幕听了一下，还不错，就是它了。</p></li><li><p>拆分任务，目前是这样打算的，两天一集，第一天先看纯英文字幕的，第二天看无字幕的，直到能完全听懂为止。</p></li></ul><p>还有，目前数据库学习正在进行中，看的是廖雪峰老师的<a href="https://www.liaoxuefeng.com/wiki/001508284671805d39d23243d884b8b99f440bfae87b0f4000" target="_blank" rel="noopener">博客教程</a>。每天两小节，预计半个月学完。</p><p>至于其他的，我觉得以我目前的时间分配来说，完成每天的工作基础上，英语和数据库能按计划进行就很不错了，至少等学完数据库再说吧。</p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>极客时间《数据结构与算法之美》课程链接，扫描二维码即可。</p><p><span id="GeekBang"><img src="/images/GeekBangAlgorithm.jpg"></span></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;如何学习一项技术&quot;&gt;&lt;a href=&quot;#如何学习一项技术&quot; class=&quot;headerlink&quot; title=&quot;如何学习一项技术&quot;&gt;&lt;/a&gt;如何学习一项技术&lt;/h1&gt;&lt;p&gt;对于开发人员来说，要学习的知识太多了。大到网络协议、数据库、测试技术，小到每一门语言的语法、
-      
+      &lt;p&gt;我是怎么在七天的空闲时间里掌握 vim 的？&lt;/p&gt;
     
     </summary>
     
@@ -65,45 +36,25 @@
   
   <entry>
     <title>移动应用的终点即将到来</title>
-    <link href="https://simonyan.cn/%E7%BF%BB%E8%AF%91/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E7%9A%84%E7%BB%88%E7%BB%93%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5/"/>
-    <id>https://simonyan.cn/翻译/移动应用的终结即将到来/</id>
+    <link href="https://simonyan.cn/%E7%BF%BB%E8%AF%91/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E7%9A%84%E7%BB%88%E7%82%B9%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5/"/>
+    <id>https://simonyan.cn/翻译/移动应用的终点即将到来/</id>
     <published>2018-11-16T12:09:16.000Z</published>
-    <updated>2018-12-11T12:19:57.229Z</updated>
+    <updated>2019-01-12T07:46:09.703Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>几天前，看到一篇文章 <a href="https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8" target="_blank" rel="noopener">“The End is near for mobile apps”</a>（需翻墙），大意是：</p><p>移动应用式微， 小程序即将兴起。</p><p>我觉得写的很好，把它翻译过来供大家参考。</p><hr><h2 id="移动应用的终点即将到来"><a href="#移动应用的终点即将到来" class="headerlink" title="移动应用的终点即将到来"></a>移动应用的终点即将到来</h2><p>作者：Lance Ng</p><p>译者：simonyan</p><p>原文网址：<a href="https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8" target="_blank" rel="noopener">https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8</a></p><p>在接下来的三到七年内，我觉得大部分移动应用都会消失，并且可以预见：那些已经涌入移动创业板块的投资公司即将遭受数十亿美元的损失。除了一堆复杂的代码，什么都剩不下。</p><h3 id="有一天，所有的法律实体都会拥有自己的移动应用。"><a href="#有一天，所有的法律实体都会拥有自己的移动应用。" class="headerlink" title="有一天，所有的法律实体都会拥有自己的移动应用。"></a>有一天，所有的法律实体都会拥有自己的移动应用。</h3><p>这是我六年前的看法，那时，我正考虑投资一家创业公司。他们提供这样一种服务：无需写代码即可创建自己的移动应用 （这一点类似于提供网站建设服务的 <a href="https://www.wix.com/" target="_blank" rel="noopener">Wix</a> 公司，不同的只是，前者提供的是移动应用创建服务）。用户只需要输入一些基本信息就能得到一个属于自己的应用，这些应用运行在公司提供的服务器上面，你可以下载到你的手机，并且可以通过二维码分享给其他人下载使用，这为个人社交以及初创的公司市场推广提供了极大便利。</p><p>有一天，所有的法律实体（包括人和公司）都会拥有自己的移动应用。这些应用将遍布互联网，就像地图上的不同建筑点一样。<strong>不幸的是，这并没有成为现实，</strong>我认为以下几点是影响 app 使用的直接原因：</p><ul><li><p>我们只会在自己的手机上装大概 50 到 100 个应用</p><p> 如果你不相信我的话，数一下你的手机上面有多少个应用。即使算上那些你删不掉的手机厂商的预装应用，最多也就 100 个。而在这些应用里，你经常使用的不超过 30 个。太多的应用会拖慢你的手机，它们占用内存空间，有很多后台运行，而且即使当你没有使用它们的时候，也会经常检查你的通知。</p><p> 无论如何，你真的愿意为你的朋友，你喜欢的饭店、便利店或者洗衣房而安装上百个应用吗？</p></li><li><p>应用应当满足常用的、功能性的目的而不是单纯地提供信息</p><p> 当智能手机刚出现的时候，大型的公司都一蜂窝地跑去做自己的应用了，然后他们发现，维护是个大问题。每次在网站上更新信息或退出一个新产品，都必须在应用上再做一遍。而且，每次用户的手机厂商更新操作系统后，你都必须调试你的应用以确保正确运行。除此之外，对于不同的品牌、系列以及不同屏幕尺寸，庞大的调试工作更加令人头痛。如果你是曾经做过软件开发的话，你应该懂我在说什么。</p><p> 事实是，除非你是大型的零售商或者内容提供商，需要经常帮助用户进行交易或者推送，不然你需要的只是一个对移动设备友好的网站而已。此外，如果你提供的信息是大家都想要的，人们为什么不在浏览器中谷歌呢。</p><blockquote><p>　你真的会在你的笔记本或者 PC 上安装这么多不同的软件吗？</p></blockquote></li><li><p>一些应用将成为社交媒体或者移动钱包生态的一部分</p><p> 这一点是基于以上两点的推理，并且在某些地区已经发生了，也就是业界称之为构建生态系统的东西，这一模式将用户日常行为以及消费与移动应用紧紧绑在了一起。</p></li></ul><p>一个典型场景是：在印度尼西亚，餐厅和咖啡厅不再像以前一样由店主控制维护点单以及配送，这些都被集成到了外卖应用中。再然后，这个外卖应用也被集成到移动钱包应用或者某种行程分享应用中，比如 Go-Jek，国内最大的电动车共享出行应用，给用户带来了很大的方便。对许多人来说，这就是能够提供共享出行、外卖以及其他生活服务的移动电子钱包。</p><p>   <img src="/images/2018-12-3-1.png" alt=""></p><p>   <img src="/images/2018-12-3-2.png" alt=""></p><p>   Go-Jek 的灵感来自于中国的微信，它是中国最大的即时通信应用，集成了我们能够想象的很多生活服务。每个中国公司都有一个微信公众号，用户可以接收推送以及进行动态交互、交易等。微信还有一个称之为“小程序”的东西，它是一个基于 API 的应用生态系统，第三方开发者可以基于此创建微信子应用。用户不必离开微信即可使用这个小程序，只要有一个微信账号便可在社交和支付功能间无缝切换。</p><p>当微信从一个只拥有即时通信功能变成了一个集成多种服务的超级应用时，中国的其他公司也开始在这个方向上发力：电子商务公司阿里巴巴的支付宝和搜索引擎公司百度。西方在超级应用上已经落后了，究竟哪个应用可以成为这种超级应用仍然需要时间来给予答案。</p><h3 id="即使是成功的应用也一样要被集成"><a href="#即使是成功的应用也一样要被集成" class="headerlink" title="即使是成功的应用也一样要被集成"></a>即使是成功的应用也一样要被集成</h3><p>任何成熟的行业都会发生整合，在互联网移动应用行业尤其如此。一个应用要变现需要大量的资金，相当的用户数量及流量。无论一个应用的创意有多么好，在它能达到收支平衡的状态之前都需要无数的广告以及市场推广，更不要说大到能够变现了。</p><p>软件第一次被称为“应用”是苹果为了和微软 Windows 系统上的“程序”相区分而提出的，你真的愿意在你的电脑或手机上安装这么多不同的软件吗？</p><p>当你在设备上安装任何东西时，请优先考虑基于云的服务和通过浏览器的软件即服务模型，而不是安装软件。</p><p>维护一个移动应用，尤其是像 IOS 或 Android 这样经常更新的软件，需要投入大量的时间、财力、人力。你是否遇见过更新完系统之后某些软件出现崩溃的现象吗。移动应用不再像以前那样必不可少了，集成即将到来，而“嗨，你知道有一个能xxx的软件吗”的时代也将随之结束。</p>]]></content>
+    <content type="html"><![CDATA[<p>几天前，看到一篇文章 <a href="https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8" target="_blank" rel="noopener">“The End is near for mobile apps”</a>（需翻墙），大意是：</p><p>移动应用式微， 小程序即将兴起。</p><p>我觉得写的很好，把它翻译过来供大家参考。</p><a id="more"></a><h2 id="移动应用的终点即将到来"><a href="#移动应用的终点即将到来" class="headerlink" title="移动应用的终点即将到来"></a>移动应用的终点即将到来</h2><p>作者：Lance Ng</p><p>译者：simonyan</p><p>原文网址：<a href="https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8" target="_blank" rel="noopener">https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8</a></p><p>在接下来的三到七年内，我觉得大部分移动应用都会消失，并且可以预见：那些已经涌入移动创业板块的投资公司即将遭受数十亿美元的损失。除了一堆复杂的代码，什么都剩不下。</p><h3 id="有一天，所有的法律实体都会拥有自己的移动应用。"><a href="#有一天，所有的法律实体都会拥有自己的移动应用。" class="headerlink" title="有一天，所有的法律实体都会拥有自己的移动应用。"></a>有一天，所有的法律实体都会拥有自己的移动应用。</h3><p>这是我六年前的看法，那时，我正考虑投资一家创业公司。他们提供这样一种服务：无需写代码即可创建自己的移动应用 （这一点类似于提供网站建设服务的 <a href="https://www.wix.com/" target="_blank" rel="noopener">Wix</a> 公司，不同的只是，前者提供的是移动应用创建服务）。用户只需要输入一些基本信息就能得到一个属于自己的应用，这些应用运行在公司提供的服务器上面，你可以下载到你的手机，并且可以通过二维码分享给其他人下载使用，这为个人社交以及初创的公司市场推广提供了极大便利。</p><p>有一天，所有的法律实体（包括人和公司）都会拥有自己的移动应用。这些应用将遍布互联网，就像地图上的不同建筑点一样。<strong>不幸的是，这并没有成为现实，</strong>我认为以下几点是影响 app 使用的直接原因：</p><ul><li><p>我们只会在自己的手机上装大概 50 到 100 个应用</p><p> 如果你不相信我的话，数一下你的手机上面有多少个应用。即使算上那些你删不掉的手机厂商的预装应用，最多也就 100 个。而在这些应用里，你经常使用的不超过 30 个。太多的应用会拖慢你的手机，它们占用内存空间，有很多后台运行，而且即使当你没有使用它们的时候，也会经常检查你的通知。</p><p> 无论如何，你真的愿意为你的朋友，你喜欢的饭店、便利店或者洗衣房而安装上百个应用吗？</p></li><li><p>应用应当满足常用的、功能性的目的而不是单纯地提供信息</p><p> 当智能手机刚出现的时候，大型的公司都一蜂窝地跑去做自己的应用了，然后他们发现，维护是个大问题。每次在网站上更新信息或退出一个新产品，都必须在应用上再做一遍。而且，每次用户的手机厂商更新操作系统后，你都必须调试你的应用以确保正确运行。除此之外，对于不同的品牌、系列以及不同屏幕尺寸，庞大的调试工作更加令人头痛。如果你是曾经做过软件开发的话，你应该懂我在说什么。</p><p> 事实是，除非你是大型的零售商或者内容提供商，需要经常帮助用户进行交易或者推送，不然你需要的只是一个对移动设备友好的网站而已。此外，如果你提供的信息是大家都想要的，人们为什么不在浏览器中谷歌呢。</p><blockquote><p>　你真的会在你的笔记本或者 PC 上安装这么多不同的软件吗？</p></blockquote></li><li><p>一些应用将成为社交媒体或者移动钱包生态的一部分</p><p> 这一点是基于以上两点的推理，并且在某些地区已经发生了，也就是业界称之为构建生态系统的东西，这一模式将用户日常行为以及消费与移动应用紧紧绑在了一起。</p></li></ul><p>一个典型场景是：在印度尼西亚，餐厅和咖啡厅不再像以前一样由店主控制维护点单以及配送，这些都被集成到了外卖应用中。再然后，这个外卖应用也被集成到移动钱包应用或者某种行程分享应用中，比如 Go-Jek，国内最大的电动车共享出行应用，给用户带来了很大的方便。对许多人来说，这就是能够提供共享出行、外卖以及其他生活服务的移动电子钱包。</p><p>   <img src="/images/2018-12-3-1.png" alt=""></p><p>   <img src="/images/2018-12-3-2.png" alt=""></p><p>   Go-Jek 的灵感来自于中国的微信，它是中国最大的即时通信应用，集成了我们能够想象的很多生活服务。每个中国公司都有一个微信公众号，用户可以接收推送以及进行动态交互、交易等。微信还有一个称之为“小程序”的东西，它是一个基于 API 的应用生态系统，第三方开发者可以基于此创建微信子应用。用户不必离开微信即可使用这个小程序，只要有一个微信账号便可在社交和支付功能间无缝切换。</p><p>当微信从一个只拥有即时通信功能变成了一个集成多种服务的超级应用时，中国的其他公司也开始在这个方向上发力：电子商务公司阿里巴巴的支付宝和搜索引擎公司百度。西方在超级应用上已经落后了，究竟哪个应用可以成为这种超级应用仍然需要时间来给予答案。</p><h3 id="即使是成功的应用也一样要被集成"><a href="#即使是成功的应用也一样要被集成" class="headerlink" title="即使是成功的应用也一样要被集成"></a>即使是成功的应用也一样要被集成</h3><p>任何成熟的行业都会发生整合，在互联网移动应用行业尤其如此。一个应用要变现需要大量的资金，相当的用户数量及流量。无论一个应用的创意有多么好，在它能达到收支平衡的状态之前都需要无数的广告以及市场推广，更不要说大到能够变现了。</p><p>软件第一次被称为“应用”是苹果为了和微软 Windows 系统上的“程序”相区分而提出的，你真的愿意在你的电脑或手机上安装这么多不同的软件吗？</p><p>当你在设备上安装任何东西时，请优先考虑基于云的服务和通过浏览器的软件即服务模型，而不是安装软件。</p><p>维护一个移动应用，尤其是像 IOS 或 Android 这样经常更新的软件，需要投入大量的时间、财力、人力。你是否遇见过更新完系统之后某些软件出现崩溃的现象吗。移动应用不再像以前那样必不可少了，集成即将到来，而“嗨，你知道有一个能xxx的软件吗”的时代也将随之结束。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;正文&quot;&gt;&lt;a href=&quot;#正文&quot; class=&quot;headerlink&quot; title=&quot;正文&quot;&gt;&lt;/a&gt;正文&lt;/h1&gt;&lt;p&gt;几天前，看到一篇文章 &lt;a href=&quot;https://medium.com/s/story/mobile-apps-will-disapp
-      
+      &lt;p&gt;几天前，看到一篇文章 &lt;a href=&quot;https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;“The End is near for mobile apps”&lt;/a&gt;（需翻墙），大意是：&lt;/p&gt;
+&lt;p&gt;移动应用式微， 小程序即将兴起。&lt;/p&gt;
+&lt;p&gt;我觉得写的很好，把它翻译过来供大家参考。&lt;/p&gt;
     
     </summary>
     
       <category term="翻译" scheme="https://simonyan.cn/categories/%E7%BF%BB%E8%AF%91/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://simonyan.cn/uncategorized/hello-world/"/>
-    <id>https://simonyan.cn/uncategorized/hello-world/</id>
-    <published>2018-11-14T06:35:19.017Z</published>
-    <updated>2018-11-14T06:35:19.018Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="小程序" scheme="https://simonyan.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
@@ -112,83 +63,17 @@
     <link href="https://simonyan.cn/%E6%9D%82%E8%AE%B0/%E6%91%86%E8%84%B1%E8%A2%AB%E5%8A%A8%E7%8A%B6%E6%80%81/"/>
     <id>https://simonyan.cn/杂记/摆脱被动状态/</id>
     <published>2018-11-12T06:27:17.000Z</published>
-    <updated>2018-11-14T06:35:19.017Z</updated>
+    <updated>2019-01-12T07:39:16.495Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>处于一种尴尬的位置很久,感觉要是不能尽快摆脱这种状态,灭亡便不远了.</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><p>是这样的，我本科学的是机械，研究生读传感器，由于研一接触了一阵这个专业，发现一点都不感兴趣，再加上空闲时间多，慢慢地就对变成编程产生了兴趣，之后便一发不可收拾．半年前决定以后要走编程这条路，然后就每天花全部时间在编程上面．</p><p>但是到了研二,课题任务变重，师兄要求又很严格，周一周五都要开组会，留给我学编程的时间很少很少．再加上我个人时间管理能力极差，完全无法平衡好科研和编程之间的时间分配．所以就造成了有的周编程学的多，有的周科研做的多．有的周两者什么都没学到．这几个月来皆是如此，进展十分缓慢．</p><p>这令我十分痛苦，而且心情一直处于压抑的状态，对科研更是有了一种抗拒心理．</p><p>但是呢，科研我不能不做，原因有以下三点：</p><ul><li><p>我要毕业，拿不出一篇小论文和大论文，谈何毕业．</p></li><li><p>师兄人很好，专业能力强而且负责，对待学习的态度极其认真，我尊敬他，并且不想再欺骗他，不能什么都没做的情况下谎报科研进展．</p></li><li><p>我现在做的是传感器融合算法，对我来说难度较大，但与编程也有交叉知识，做好了一样对我有帮助．而且面对一个新领域的问题的解决之道，是我目前最欠缺的东西之一，我不想放弃．</p></li></ul><p>至于编程呢，那就直接与工作相关了．明天春天要找实习，参加面试，秋招要找工作，以我目前的水平怕是很难找到好的岗位．</p><p>还有一年，时间宝贵．</p><p>所以，这样说来，目前最大的问题是时间管理．</p><p>我想了一种方法，感觉可行：</p><p>白天的时间留给科研任务，晚饭后的几个小时留给编程．</p><p>白天上午两个小时，下午三个小时．晚上的话大概四个小时，高效利用的话应该是足够了．</p><p>既然计划定下了就要好好执行，白天即使再不想学也不能打破计划去写代码，这是之前最大的问题．</p><p>时间管理上，今天选一本书好好读一下，不然以后到工作上不能还是这种状态，一样要灭亡的．</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>学习这件事上，我还是个孩子，我不能一直是个孩子．</p>]]></content>
+    <content type="html"><![CDATA[<p>处于一种尴尬的位置很久,感觉要是不能尽快摆脱这种状态,灭亡便不远了.</p><a id="more"></a><p>是这样的，我本科学的是机械，研究生读传感器，由于研一接触了一阵这个专业，发现不太感冒，再加上空闲时间多，慢慢地就对变成编程产生了兴趣，之后便一发不可收拾．半年前决定以后要走编程这条路，然后就每天花全部时间在编程上面．</p><p>但是到了研二,课题任务变重，师兄要求又很严格，周一周五都要开组会，留给我学编程的时间很少很少．再加上我个人时间管理能力极差，完全无法平衡好科研和编程之间的时间分配．所以就造成了有的周编程学的多，有的周科研做的多．有的周两者什么都没学到．这几个月来皆是如此，进展十分缓慢．</p><p>这令我十分痛苦，而且心情一直处于压抑的状态，对科研更是有了一种抗拒心理．</p><p>但是呢，科研我不能不做，原因有以下三点：</p><ul><li><p>我要毕业，拿不出一篇小论文和大论文，谈何毕业．</p></li><li><p>师兄人很好，专业能力强而且负责，对待学习的态度极其认真，我尊敬他，并且不想再欺骗他，不能什么都没做的情况下谎报科研进展．</p></li><li><p>我现在做的是传感器融合算法，对我来说难度较大，但与编程也有交叉知识，做好了一样对我有帮助．而且面对一个新领域的问题的解决之道，是我目前最欠缺的东西之一，我不想放弃．</p></li></ul><p>至于编程呢，那就直接与工作相关了．明天春天要找实习，参加面试，秋招要找工作，以我目前的水平怕是很难找到好的岗位．</p><p>还有一年，时间宝贵．</p><p>所以，这样说来，目前最大的问题是时间管理．</p><p>我想了一种方法，感觉可行：</p><p>白天的时间留给科研任务，晚饭后的几个小时留给编程．</p><p>白天上午两个小时，下午三个小时．晚上的话大概四个小时，高效利用的话应该是足够了．</p><p>既然计划定下了就要好好执行，白天即使再不想学也不能打破计划去写代码，这是之前最大的问题．</p><p>时间管理上，今天选一本书好好读一下，不然以后到工作上不能还是这种状态，一样要灭亡的．</p><p>干就完了！</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;处于一种尴尬的位置很久,感觉要是不能尽快摆脱这种状态,灭亡便不远了.&lt;/p&gt;
-&lt;h1 id=&quot;正文&quot;&gt;&lt;a href=&quot;#正文&quot; class
-      
+      &lt;p&gt;处于一种尴尬的位置很久,感觉要是不能尽快摆脱这种状态,灭亡便不远了.&lt;/p&gt;
     
     </summary>
     
       <category term="杂记" scheme="https://simonyan.cn/categories/%E6%9D%82%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>忘了Python我有点慌</title>
-    <link href="https://simonyan.cn/%E6%9D%82%E8%AE%B0/%E5%BF%98%E4%BA%86Python%E6%88%91%E6%9C%89%E7%82%B9%E6%85%8C/"/>
-    <id>https://simonyan.cn/杂记/忘了Python我有点慌/</id>
-    <published>2018-11-06T15:09:22.000Z</published>
-    <updated>2018-12-17T01:37:45.422Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="我把-Python-都忘了"><a href="#我把-Python-都忘了" class="headerlink" title="我把 Python 都忘了"></a>我把 Python 都忘了</h1><blockquote><p>“不坏不坏，忘得真快”</p></blockquote><p>这是张三丰听到张无忌说已把他刚才教的剑法忘得一干二净时说的话，可惜 Python 应该不像太极剑，要得其意而忘其形。一种编程语言，语法是基础。</p><p>事情是这样的，我今天在学算法，想把一段程序用 Python 重新写一下。当打开 Vscode 后发现除了会　<code>def insert():</code> 外，其他的都忘了，比如像如何把一个列表作为参数、列表长度的获取等等。</p><p>当时感觉有点方（插个题外话，南方人说有点方的意思是不是因为 f 和 h 的发音问题，这是我刚刚想到的(￣▽￣)”），毕竟 Python 是我最熟悉的语言了。从看廖雪峰老师的教程开始的半年里我用它写过两个网站，也写过小工具，但是距离我写完 Flask 网站应该是整整四个月了，</p><p>这四个月我基本没有再碰 Python。</p><p>难道大家都是这样的吗？</p><h2 id="怎么捡起来"><a href="#怎么捡起来" class="headerlink" title="怎么捡起来"></a>怎么捡起来</h2><p>目前的重心是 Java 和 数据结构算法，但在计划里我每天也留出了写代码的时间，刚好可以用来学爬虫，写一些爬虫，这本身也是我近期计划之内的事。</p><p>还有，Flask搭建博客的总结拖了很久，一直没有写……</p><p>总之，Python 是万万不能扔下的，是它带着我对编程产生了兴趣，写了点东西，给了我成就感。同时，平时一些小的工具，实现一些算法、数据结构也离不开它，</p><p>爬虫更是自己一直想深入的东西。</p><p>Life is short, I choose Python!</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;我把-Python-都忘了&quot;&gt;&lt;a href=&quot;#我把-Python-都忘了&quot; class=&quot;headerlink&quot; title=&quot;我把 Python 都忘了&quot;&gt;&lt;/a&gt;我把 Python 都忘了&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;“不坏不坏，忘得真快”&lt;/
-      
-    
-    </summary>
-    
-      <category term="杂记" scheme="https://simonyan.cn/categories/%E6%9D%82%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Github Pages 搭建 Hexo 教程</title>
-    <link href="https://simonyan.cn/uncategorized/Github-Pages-%E6%90%AD%E5%BB%BA-Hexo-%E6%95%99%E7%A8%8B/"/>
-    <id>https://simonyan.cn/uncategorized/Github-Pages-搭建-Hexo-教程/</id>
-    <published>2018-10-24T07:20:44.000Z</published>
-    <updated>2018-11-14T06:35:19.015Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>测试</title>
-    <link href="https://simonyan.cn/uncategorized/%E6%B5%8B%E8%AF%95/"/>
-    <id>https://simonyan.cn/uncategorized/测试/</id>
-    <published>2018-10-22T14:30:02.000Z</published>
-    <updated>2018-11-14T06:35:19.019Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="测试中文"><a href="#测试中文" class="headerlink" title="测试中文"></a>测试中文</h1><ul><li>测试中文输入法问题</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;测试中文&quot;&gt;&lt;a href=&quot;#测试中文&quot; class=&quot;headerlink&quot; title=&quot;测试中文&quot;&gt;&lt;/a&gt;测试中文&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;测试中文输入法问题&lt;/li&gt;
-&lt;/ul&gt;
-
-      
-    
-    </summary>
     
     
   </entry>
